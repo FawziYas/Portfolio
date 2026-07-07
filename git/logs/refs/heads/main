@@ -1,3 +1,0 @@
-0000000000000000000000000000000000000000 8b8a3ea60898aa98c383cf702b89f1dbe84ab677 Fawzi Yasin <fawzi.fy@gmail.com> 1783424761 +0000	commit (initial): Initial commit: portfolio website
-8b8a3ea60898aa98c383cf702b89f1dbe84ab677 8b8a3ea60898aa98c383cf702b89f1dbe84ab677 root <root@vm.(none)> 1783424761 +0000	Branch: renamed refs/heads/master to refs/heads/main
-8b8a3ea60898aa98c383cf702b89f1dbe84ab677 eadd0f70352ce834952f5299e769143ff87c5f6d Fawzi Yasin <fawzi.fy@gmail.com> 1783455784 +0000	commit: Add GitHub Action for manual Cloudflare Pages deploy
